@@ -9,7 +9,10 @@ why we  need static program analysis
 ![中间语言高级抽象化](/imgs/2026-03-29/e4Zpep1iw6WOdzEj.png)
 ![输入图片说明](/imgs/2026-03-29/VLAn2TnwdGChMQ7H.png)
 ![输入图片说明](/imgs/2026-03-29/mmDEyAttGqiGQNcQ.png)
+
+![输入图片说明](/imgs/2026-03-29/VRDhHoXhP0a2zJKK.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NTkzODAsMTIwMjE2ODI1LC04Mzg1OD
-M2NTEsLTYzNjM0Mzc2MCwtMTI2Nzg1NTUyMF19
+eyJoaXN0b3J5IjpbMjAwNDU2ODI1LDk1OTU5MzgwLDEyMDIxNj
+gyNSwtODM4NTgzNjUxLC02MzYzNDM3NjAsLTEyNjc4NTU1MjBd
+fQ==
 -->
