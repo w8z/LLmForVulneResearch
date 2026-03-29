@@ -12,10 +12,11 @@
  10. he is a professor   in the department  of   pattern   recognition and intelligent  systems
  11. The company suffered a massive data breach  The source code  was exposed due  to a data leak    data exposure 
  12. system crash   system  failure   system downtime   system freeze 
+ 13. taint analysis  taint tracking 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDU0ODIxMF19
+eyJoaXN0b3J5IjpbLTE5MDYzNjQ0NzcsMTIyMDU0ODIxMF19
 -->
