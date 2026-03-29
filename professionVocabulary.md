@@ -13,10 +13,12 @@
  11. The company suffered a massive data breach  The source code  was exposed due  to a data leak    data exposure 
  12. system crash   system  failure   system downtime   system freeze 
  13. taint analysis  taint tracking 
+ 14. sanitize
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYzNjQ0NzcsMTIyMDU0ODIxMF19
+eyJoaXN0b3J5IjpbLTg5NTU2OTA3LC0xOTA2MzY0NDc3LDEyMj
+A1NDgyMTBdfQ==
 -->
