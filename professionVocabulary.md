@@ -15,12 +15,12 @@
  13. taint analysis  taint tracking 
  14. sanitize  
  15. cross-site scripting
- 16.  insufficient  adap
+ 16.  insufficient  contex learning  adaptability 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA3NDU3MTIsLTQ0Nzc0MTMxMiwtMT
-kwNjM2NDQ3NywxMjIwNTQ4MjEwXX0=
+eyJoaXN0b3J5IjpbMTk4MTM1NzA1OSwtMTUwMDc0NTcxMiwtND
+Q3NzQxMzEyLC0xOTA2MzY0NDc3LDEyMjA1NDgyMTBdfQ==
 -->
